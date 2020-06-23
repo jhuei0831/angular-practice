@@ -1,3 +1,3 @@
-# angular-xjrbq5
+# angular-jhuei-practice
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-xjrbq5)
+[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-jhuei-practice)
